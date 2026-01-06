@@ -902,5 +902,3 @@ st.markdown("""
     <p>Mixed-Integer Nonlinear Programming for Geometric Configuration and Operational Scheduling</p>
 </div>
 """, unsafe_allow_html=True)
-
-Add a commit message at the bottom
